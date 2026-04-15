@@ -1,7 +1,7 @@
 ## View-consistency
 This repository provides a high-level overview and demo results.
 
-The full implementation will be released after paper submission.
+The full implementation will be released after paper review.
 
 | DiSR-NeRF | Ours |
 |:--:|:--:|
