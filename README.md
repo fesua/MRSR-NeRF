@@ -24,7 +24,7 @@ Sejong University, Republic of Korea
 - **[Coming soon]** Camera-ready paper and code will be released.
 
 ## Overview
-**TL;DR**: MRSR-NeRF is a zero-shot, scene-specific super-resolution framework for NeRF. Instead of hallucinating details, it borrows *authentic* high-frequency textures from neighboring views where the same region appears magnified, producing multi-view consistent and structure-preserving high-resolution reconstructions.
+**Summary**:: MRSR-NeRF is a zero-shot, scene-specific super-resolution framework for NeRF. Instead of hallucinating details, it borrows *authentic* high-frequency textures from neighboring views where the same region appears magnified, producing multi-view consistent and structure-preserving high-resolution reconstructions.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/441d5d87-be5b-4c12-8b67-40321d1763e2" width="90%">
